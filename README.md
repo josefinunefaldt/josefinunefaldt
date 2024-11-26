@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎓 Newly graduated .NET developer. <br/>
+🎓 Fullstack C# .NET developer. <br/>
 🌱 Exploring Java and Python to expand skills.
 - 📫 How to reach me: <div id="badges"> <br/>
   <a href="https://uk.linkedin.com/in/josefin-unefaldt-systemutvecklare">
